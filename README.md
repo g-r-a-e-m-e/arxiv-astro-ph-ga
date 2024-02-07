@@ -1,4 +1,4 @@
-# arXiv Astrophysics of Galaxies Bluesky Bot
+# arXiv - Astrophysics of Galaxies Bluesky Bot
 
 [![DOI](https://zenodo.org/badge/754321328.svg)](https://zenodo.org/doi/10.5281/zenodo.10632653)
 
